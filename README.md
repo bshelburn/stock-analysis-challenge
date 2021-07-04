@@ -16,7 +16,7 @@ ___
 ### 2017 Refactored
 <img width="289" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/84201082/124401911-6b982580-dcfa-11eb-9fe4-fb271446990f.png">
 
-Overall stocks performed very well for the year of 2017.   tHE ONLY STOCK WITH A NEGAtive return was TERP out of the 12 analyzied.   Although Steve's parents were looking at Daily Volume traded as an indicator of a successful stock TERP was actually 5 out of 12 in terms of volume but still had a negative return.
+Overall stocks performed very well for the year of 2017.   The only stock with a negative return was TERP out of the 12 analyzied.   Although Steve's parents were looking at Daily Volume traded as an indicator of a successful stock TERP was actually 5 out of 12 in terms of volume but still had a negative return.
 
 ### 2018 Original
 <img width="257" alt="2018 Original" src="https://user-images.githubusercontent.com/84201082/124401896-5ae7af80-dcfa-11eb-84c0-9df93763a299.png">
@@ -31,4 +31,4 @@ My reccomendation for Steve's parents would be to take a closer look at both ENP
 
 The advantage of refactoring code is that you can reapply an existing solution to more quickly accomplish your objective once modified for your specific data set.   Disadvanteges include not knowing exactly how the writer of the code was going about solving their problem.   Utilizing the whitespace (notes) is key to being able to explain your thought process to others and to also remind yourself of how the issue was being approached should you need to step away.
 
-I had mixed results in terms of how efficient the code ran with the "2017 Original" taking the least amount of time to run although the other 3 were very close.  This could be due to other programs running the the background when the screenshot was taken and memory being used.   If there was a larger data set this could pose an issue however the difference between both is just fractions of a sentence and not noticable by the user.
+I had mixed results in terms of how efficient the code ran with the "2017 Original" taking the least amount of time to run although the other 3 were very close.  This could be due to other programs running the the background when the screenshot was taken and memory being used.   If there was a larger data set this could pose an issue however the difference between both is just fractions of a second and not noticable by the user.
