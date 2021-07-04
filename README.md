@@ -8,3 +8,9 @@ This analysis was the result of Steve's parents wanting to analyze stock perform
 
 ## Analysis & Challenges
 ### Analysis of Stocks
+___
+### 2017 Original
+<img width="257" alt="2017 Original" src="https://user-images.githubusercontent.com/84201082/124401815-a9487e80-dcf9-11eb-883e-f938a4197716.png">
+
+### 2018 Original
+<img width="289" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/84201082/124401838-e44ab200-dcf9-11eb-8bb4-4b65838a6dd5.png">
