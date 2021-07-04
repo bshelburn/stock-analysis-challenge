@@ -13,4 +13,10 @@ ___
 <img width="257" alt="2017 Original" src="https://user-images.githubusercontent.com/84201082/124401815-a9487e80-dcf9-11eb-883e-f938a4197716.png">
 
 ### 2018 Original
-<img width="289" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/84201082/124401838-e44ab200-dcf9-11eb-8bb4-4b65838a6dd5.png">
+<img width="257" alt="2018 Original" src="https://user-images.githubusercontent.com/84201082/124401896-5ae7af80-dcfa-11eb-84c0-9df93763a299.png">
+
+### 2017 Refactored
+<img width="289" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/84201082/124401911-6b982580-dcfa-11eb-9fe4-fb271446990f.png">
+
+### 2018 Refactored
+<img width="289" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/84201082/124401913-78b51480-dcfa-11eb-8b9b-c50bc15b9891.png">
